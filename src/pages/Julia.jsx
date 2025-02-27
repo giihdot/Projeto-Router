@@ -5,7 +5,7 @@ function Julia() {
     return (
         <div>
            <h3> JULIA PIAZZOLI </h3>
-           <img src="Julia_Img.jpeg"> </img>
+           {/* <img src="Julia_Img.jpeg"> </img> */}
            <p> Intensidade e Poder
             Julia, aos 17 anos, não passa despercebida. Com uma personalidade forte e uma presença marcante, 
             ela sabe exatamente o que quer e não tem paciência para meias palavras. Crítica por natureza, enxerga 

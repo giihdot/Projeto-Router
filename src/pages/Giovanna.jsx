@@ -4,7 +4,7 @@ function Giovanna() {
 
     return (
         <div>
-            <img src="Giovanna_Img.jpeg"> </img>
+            {/* <img src="Giovanna_Img.jpeg"> </img> */}
            <h3> GIOVANNA FERREIRA </h3>
            <p> Arte, Fé e Determinação
            Giovanna, aos 17 anos, já carrega em si a intensidade de quem sabe o que quer. 

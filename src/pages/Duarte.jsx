@@ -5,7 +5,7 @@ function Duarte() {
     return (
         <div>
            <h3> MARIA CLARA DUARTE </h3>
-           <img src="Duarte_Img.jpeg"> </img>
+           {/* <img src="Duarte_Img.jpeg"> </img> */}
            <p> Coração Forte, Alma Sensível
             Maria, aos 16 anos, é um misto de força e sensibilidade. De personalidade marcante, ela sente o mundo de maneira 
             intensa—cada emoção, cada detalhe, cada gesto. Sua melancolia não é fraqueza, mas sim uma profundidade rara, 

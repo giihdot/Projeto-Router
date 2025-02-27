@@ -5,7 +5,7 @@ function Kamilly() {
     return (
         <div>
            <h3> KAMILLY BARRA </h3>
-           <img src="Kamilly_Img.jpeg"> </img>
+           {/* <img src="Kamilly_Img.jpeg"> </img> */}
            <p> Entre a Razão e a Emoção
             Kamilly, aos 17 anos, carrega em si uma profundidade rara. De personalidade forte e olhar crítico, 
             ela enxerga o mundo com uma sensibilidade que poucos compreendem. Sempre refletindo sobre a vida e suas 
