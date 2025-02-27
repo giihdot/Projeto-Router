@@ -1,9 +1,9 @@
-// import "./Aside.css";
+import "./Aside.css";
 
 function Aside() {
   return (
     <>
-      <aside>
+      <aside className="Valores">
         <h2> VALORES: </h2>
         <ol>
           <li>

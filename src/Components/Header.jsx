@@ -6,7 +6,7 @@ function Header() {
     <>
     <header>
     <h1> AS GATITAS </h1>
-    <img src={Logo} alt="As Gatitas" />
+    <img className="Img_1" src={Logo} alt="As Gatitas" />
     </header>
     </>
   );
