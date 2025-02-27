@@ -1,4 +1,4 @@
-import './Profiles.css'
+// import './Profiles.css'
 
 function Julia() {
 
