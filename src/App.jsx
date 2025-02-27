@@ -8,6 +8,7 @@ import Giovanna from './pages/Giovanna'
 import Julia from './pages/Julia'
 import Kamilly from './pages/Kamilly'
 import Duarte from './pages/Duarte'
+import "./App.css"
 
 
 function App() {
