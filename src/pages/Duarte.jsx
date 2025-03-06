@@ -11,7 +11,7 @@ import "./Ap.css";
 function Duarte() {
   return (
     <div>
-      <section className="Flex-Colunm">
+      <section className="Flex-Colun">
         <Header Integrante=" - Maria Duarte"/>
         <section className="Flex-row">
           <Nav />
