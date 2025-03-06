@@ -1,35 +1,26 @@
-import {BrowserRouter, Routes, Route} from "react-router-dom"
-import Header from './Components/Header'
-import Nav from './Components/Nav'
-import Footer from './Components/Footer'
-import Aside from './Components/Aside'
-import './App.css'
-import Giovanna from './pages/Giovanna'
-import Julia from './pages/Julia'
-import Kamilly from './pages/Kamilly'
-import Duarte from './pages/Duarte'
-import "./App.css"
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
+import "./App.css";
+import GF from "./pages/Giovanna";
+import JP from "./pages/Julia";
+import KB from "./pages/Kamilly";
+import MD from "./pages/Duarte";
+import AP from "./pages/AP";
 
 function App() {
-
   return (
     <>
-      <Header/>
-      <BrowserRouter> 
-        <Routes> 
-          <Route path="/GF" element={<Giovanna/>} />
-          <Route path="/JP" element={<Julia/>} />
-          <Route path="/KB" element={<Kamilly/>} />
-          <Route path="/MD" element={<Duarte/>} />
-        </Routes>  
-        <Nav/>
-    </BrowserRouter>
-      <Aside/>
-      <Footer/>
-
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<AP />} />
+          <Route path="/GF" element={<GF />} />
+          <Route path="/JP" element={<JP />} />
+          <Route path="/KB" element={<KB />} />
+          <Route path="/MD" element={<MD />} />
+        </Routes>
+      </BrowserRouter>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
