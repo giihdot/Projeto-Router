@@ -11,14 +11,13 @@ function Julia() {
   return (
     <div>
       <section className="Flex-Colunm">
-        <Header />
+        <Header Integrante=" - Julia Piazzoli"/>
 
         <section className="Flex-row">
           <Nav />
           <section className="Flex-Colunm">
             <h3> JULIA PIAZZOLI </h3>
             <p className="pp">
-              {" "}
               Intensidade e Poder Julia, aos 17 anos, não passa despercebida.
               Com uma personalidade forte e uma presença marcante, ela sabe
               exatamente o que quer e não tem paciência para meias palavras.
@@ -35,7 +34,7 @@ function Julia() {
               jornada. Para Julia, espiritualidade e poder caminham juntos, e
               ela faz questão de honrar sua crença com respeito e intensidade.
               Determinada e cheia de opinião, Julia não nasceu para seguir — ela
-              nasceu para comandar.{" "}
+              nasceu para comandar.
             </p>
             <img src={J} />
           </section>

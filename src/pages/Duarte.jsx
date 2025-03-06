@@ -12,7 +12,7 @@ function Duarte() {
   return (
     <div>
       <section className="Flex-Colunm">
-        <Header />
+        <Header Integrante=" - Maria Duarte"/>
         <section className="Flex-row">
           <Nav />
           <section className="Flex-Colunm">

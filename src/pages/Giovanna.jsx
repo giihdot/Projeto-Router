@@ -11,14 +11,13 @@ function Giovanna() {
   return (
     <div>
       <section className="Flex-Colunm">
-        <Header />
+        <Header Integrante=" - Giovanna Ferreira"/>
 
         <section className="Flex-row">
           <Nav />
           <section className="Flex-Colunm">
             <h3> GIOVANNA FERREIRA </h3>
             <p className="pp">
-              {" "}
               Arte, Fé e Determinação Giovanna, aos 17 anos, já carrega em si a
               intensidade de quem sabe o que quer. Dona de uma personalidade
               forte, ela não teme expressar suas opiniões e defender aquilo em

@@ -11,7 +11,7 @@ function Kamilly() {
   return (
     <div>
       <section className="Flex-Colunm">
-        <Header />
+        <Header Integrante=" - Kamilly Barra"/>
 
         <section className="Flex-row">
           <Nav />
