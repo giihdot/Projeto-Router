@@ -27,10 +27,9 @@ a:hover {
 }
 
 a:visited {
-  color:  #f668b6b4;
+  color: #f668b6b4;
 }
 
 a:focus a:active {
-  
   color: #01063279;
 }

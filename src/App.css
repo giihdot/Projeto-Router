@@ -4,6 +4,7 @@ body {
 .Flex-box {
   display: flex;
   flex-direction: column;
+  width: auto;
 }
 .pp {
   font-family: Georgia, 'Times New Roman', Times, serif;
